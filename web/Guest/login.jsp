@@ -108,15 +108,19 @@
         a:hover {
             text-decoration: underline;
         }
-
+        
+        
     </style>
 </head>
 <body>
-
+    
     <!-- Loader -->
     <div id="preloader">
         <div class="loader"></div>
     </div>
+    
+    <h1 style="position: absolute; top: 30px; width: 100%; text-align: center; font-size: 36px; color: white; font-weight: bold; z-index: 10;">🏍️ Vehicle Service System</h1>
+
 
     <!-- Login Form -->
     <div class="login-container">
@@ -153,7 +157,9 @@
             <input type="password" name="txtpassword" placeholder="Password" required>
             <input type="submit" name="btnlogin" value="Login">
         </form>
-        <p><a href="NewUserRegistration.jsp">New User? Register Here</a></p>
+       
+        <!-- <p><a href="NewUserRegistration.jsp">New User? Register Here</a></p> -->
+       
     </div>
 
     <script>

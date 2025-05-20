@@ -130,10 +130,8 @@
     <div class="sidebar">
         <h2>🚀 Bike Service</h2>
         <a href="UserHome.jsp"><i class="fas fa-home"></i> Home</a>
-        <a href="UserRegistration.jsp"><i class="fas fa-motorcycle"></i> Register Bike</a>
-        <a href="ScheduleService.jsp"><i class="fas fa-tools"></i> Schedule Service</a>
+        <a href="BookService.jsp"><i class="fas fa-tools"></i> Book Service</a>
         <a href="ViewScheduledService.jsp"><i class="fas fa-calendar-check"></i> View Scheduled Services</a>
-        <a href="ServiceHistory.jsp"><i class="fas fa-history"></i> Service History</a>
         <a href="Logout.jsp"><i class="fas fa-sign-out-alt"></i> Logout</a>
     </div>
 
@@ -148,9 +146,9 @@
                 <i class="fas fa-motorcycle"></i>
                 User booking Status
             </a>
-            <a href="ViewScheduledService.jsp" class="card">
+            <a href="BookService.jsp" class="card">
                 <i class="fas fa-tools"></i>
-                Schedule Service
+                Book Service
             </a>
             <a href="ViewScheduledService.jsp" class="card">
                 <i class="fas fa-calendar-check"></i>

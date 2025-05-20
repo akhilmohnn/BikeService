@@ -33,7 +33,7 @@
             <tr>
                 <th>Service Date</th>
                 <th>Service Type</th>
-                <th>Status</th>
+                <!-- <th>Status</th> -->
             </tr>
         </thead>
         <tbody>
@@ -45,7 +45,7 @@
             <tr>
                 <td><%= rs.getString("service_date") %></td>
                 <td><%= rs.getString("service_type") %></td>
-                <td><span class="badge bg-info"><%= rs.getString("status") %></span></td>
+                <!-- <td><span class="badge bg-info"><%= rs.getString("status") %></span></td> -->
             </tr>
             <%
                 }
