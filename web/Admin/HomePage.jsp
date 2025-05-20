@@ -89,15 +89,15 @@
         <p>Manage your platform efficiently</p>
 
         <div class="row mt-4">
-            <div class="col-md-4 mb-3">
+            <div class="col-md-4 mb-3 mx-auto">
                 <a href="UserList.jsp" class="text-decoration-none">
                     <div class="dashboard-card">
                         <i class="fas fa-users"></i>
-                        <h5>Manage Users</h5>
+                        <h5>View detailed info</h5>
                     </div>
                 </a>
             </div>
-            <div class="col-md-4 mb-3">
+            <!-- <div class="col-md-4 mb-3">
                 <a href="manage_bikes.jsp" class="text-decoration-none">
                     <div class="dashboard-card">
                         <i class="fas fa-motorcycle"></i>
@@ -136,7 +136,7 @@
                         <h5>Profile</h5>
                     </div>
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
 

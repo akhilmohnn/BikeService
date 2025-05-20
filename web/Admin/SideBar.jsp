@@ -166,7 +166,6 @@
         <ul>
             <li><a href="HomePage.jsp"><i class="fas fa-home"></i> Dashboard</a></li>
             <li><a href="UserRegistration.jsp"><i class="fas fa-users"></i>UserRegistration</a></li>
-            <li><a href="AdminManageBooking.jsp"><i class="fas fa-motorcycle"></i> AdminServiceDetails</a></li>
             <li><a href="ScheduleService.jsp"><i class="fas fa-chart-line"></i> ScheduleService</a></li>
             <li><a href="UserList.jsp"><i class="fas fa-cogs"></i> UserList</a></li>
             <li><a href="AdminManageBooking.jsp"><i class="fas fa-envelope"></i> AdminManageBooking</a></li>

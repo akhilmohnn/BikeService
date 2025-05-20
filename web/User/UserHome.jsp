@@ -156,10 +156,10 @@
                 <i class="fas fa-calendar-check"></i>
                 View Scheduled Services
             </a>
-            <a href="ServiceHistory.jsp" class="card">
+            <!-- <a href="ServiceHistory.jsp" class="card">
                 <i class="fas fa-history"></i>
                 Service History
-            </a>
+            </a> -->
         </div>
     </div>
 </div>
